@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and technology
 - 🌱 I’m currently learning home automation
 - 💞️ I’m looking to collaborate on Vr
-- 📫 How to reach me ...
+- 📫 How to reach me shivamsawant2427@gmail.com
 
 <!---
 King-77/King-77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
