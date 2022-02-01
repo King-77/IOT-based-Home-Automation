@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @King-77
+- 👋 Hi, I’m Shivam Sawant
 - 👀 I’m interested in AI and technology
 - 🌱 I’m currently learning home automation
 - 💞️ I’m looking to collaborate on Vr
