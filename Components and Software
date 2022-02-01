@@ -1,0 +1,23 @@
+ Hardware Components:
+ 
+1 Arduino Uno
+
+2 Bluetooth Module HC-05
+
+3 Relay Module
+
+4 16x2 LCD
+
+5 Other Components:
+10k Ω Potentiometer x 1
+1k Ω Resistor x 1
+2.2k Ω Resistor x 1
+220 Ω Resistor x 1, Connecting wires
+
+5. Software:
+The Arduino IDE is an open-source software, which is used to 
+write and upload code to the Arduino boards. The IDE 
+application is suitable for different operating systems such 
+as Windows, Mac OS X, and Linux. It supports the 
+programming languages C and C++. Here, IDE stands 
+for Integrated Development Environment.
